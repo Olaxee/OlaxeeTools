@@ -1,5 +1,3 @@
-README FR
-
 # 🌐 OlaxeeTools
 
 **OlaxeeTools** est un outil léger conçu pour **détecter et afficher votre adresse IP privée** directement sur votre réseau local.  
@@ -123,4 +121,5 @@ Ce projet est distribué en open source à des fins éducatives et de démonstra
 ## 💬 Merci !
 
 > Merci d'avoir téléchargé et soutenu **OlaxeeTools** ❤️  
+
 > N'hésitez pas à ⭐ le dépôt si vous le trouvez utile !
