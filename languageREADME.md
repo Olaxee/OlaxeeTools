@@ -1,5 +1,4 @@
-# 🌐 Languages
+# 🌐 Languages for readme
 
-> FR
-> AN
-[Google](https://www.google.com "Aller sur Google")
+> French  [ClickHere]()
+> English [ClickHere]()
