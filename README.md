@@ -125,5 +125,7 @@ This project is distributed as open-source for educational and technical demonst
 
 ## 🌐 Other Language
 
+Click here for other languages
+
 
 
