@@ -1,5 +1,9 @@
 # 🌐 Languages for readme
 
-> French  [ClickHere]()
+## French  
 
-> English [ClickHere]()
+> * [ClickHere]() *
+
+## English
+
+> * [ClickHere]() *
