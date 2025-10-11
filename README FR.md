@@ -128,3 +128,9 @@ Ce projet est distribué en open source à des fins éducatives et de démonstra
 ## 🌐 Translations
 
 [Click Here](https://github.com/Olaxee/OlaxeeTools/blob/master/Translations.md) *for other languages*
+
+---
+
+## 🌐 Translations
+
+[Click Here](https://github.com/Olaxee/OlaxeeTools/blob/master/Translations.md) *for other languages*
