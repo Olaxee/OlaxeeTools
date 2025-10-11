@@ -1,0 +1,38 @@
+name: Update Wiki Translations from Translations.md
+
+on:
+  push:
+    paths:
+      - 'Translations.md'  # déclenche uniquement quand ce fichier change
+
+jobs:
+  update-wiki:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout le repo principal
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2. Checkout le wiki
+      - name: Checkout Wiki
+        uses: actions/checkout@v3
+        with:
+          repository: Olaxee/OlaxeeTools.wiki.git
+          path: wiki
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 3. Copier Translations.md dans la page wiki "Translations"
+      - name: Copy Translations to Wiki
+        run: |
+          cp "Translations.md" "wiki/Translations.md"
+
+      # 4. Commit et push les changements
+      - name: Commit and Push
+        run: |
+          cd wiki
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add Translations.md
+          git commit -m "Update Wiki Translations from Translations.md" || echo "No changes to commit"
+          git push
