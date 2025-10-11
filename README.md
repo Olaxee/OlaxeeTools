@@ -123,9 +123,10 @@ This project is distributed as open-source for educational and technical demonst
 > Thanks for downloading and supporting **OlaxeeTools** ❤️  
 > Feel free to ⭐ the repo if you find it useful!
 
-## 🌐 Other Language
+## 🌐 Translations
 
-Click here for other languages
+[Click Here](https://github.com/Olaxee/OlaxeeTools/blob/master/Translations.md) *for other languages*
+
 
 
 
