@@ -123,3 +123,7 @@ This project is distributed as open-source for educational and technical demonst
 > Thanks for downloading and supporting **OlaxeeTools** ❤️  
 > Feel free to ⭐ the repo if you find it useful!
 
+## 🌐 Other Language
+
+
+
