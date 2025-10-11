@@ -121,8 +121,10 @@ Ce projet est distribué en open source à des fins éducatives et de démonstra
 ## 💬 Merci !
 
 > Merci d'avoir téléchargé et soutenu **OlaxeeTools** ❤️  
-
 > N'hésitez pas à ⭐ le dépôt si vous le trouvez utile !
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzU2Mjc0NTZdfQ==
--->
+
+---
+
+## 🌐 Translations
+
+[Click Here](https://github.com/Olaxee/OlaxeeTools/blob/master/Translations.md) *for other languages*
