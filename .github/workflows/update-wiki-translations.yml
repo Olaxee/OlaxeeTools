@@ -14,13 +14,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 2️⃣ Checkout le wiki
+      # 2️⃣ Checkout le wiki avec le token personnel
       - name: Checkout Wiki
         uses: actions/checkout@v3
         with:
           repository: Olaxee/OlaxeeTools.wiki.git
           path: wiki
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.WIKI_TOKEN }}
 
       # 3️⃣ Copier Translations.md dans la page wiki "Translations" (sans .md)
       - name: Copy Translations to Wiki
