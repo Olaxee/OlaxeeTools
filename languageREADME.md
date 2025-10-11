@@ -2,8 +2,8 @@
 
 ## French  
 
-> * [ClickHere]() *
+> **[ClickHere]()**
 
 ## English
 
-> * [ClickHere]() *
+> **[ClickHere]()**
