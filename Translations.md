@@ -6,6 +6,4 @@
 
 ## English
 
-> **[Click Here](https://github.com/Olaxee/OlaxeeTools/blob/master/README.md)**
-ubuihhi
-# Test sync
+> **[Click Here](https://github.com/Olaxee/OlaxeeTools/blob/master/README.md)** abc test
