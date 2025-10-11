@@ -123,3 +123,6 @@ Ce projet est distribué en open source à des fins éducatives et de démonstra
 > Merci d'avoir téléchargé et soutenu **OlaxeeTools** ❤️  
 
 > N'hésitez pas à ⭐ le dépôt si vous le trouvez utile !
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwMzU2Mjc0NTZdfQ==
+-->
