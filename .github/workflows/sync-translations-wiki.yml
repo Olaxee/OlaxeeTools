@@ -1,0 +1,38 @@
+name: Sync Translations.md to Wiki
+
+on:
+  push:
+    paths:
+      - 'Translations.md'  # Déclenche le workflow uniquement si ce fichier change
+
+jobs:
+  sync-wiki:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ Checkout du repo principal
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2️⃣ Checkout du wiki avec le token personnel
+      - name: Checkout Wiki
+        uses: actions/checkout@v3
+        with:
+          repository: Olaxee/OlaxeeTools.wiki.git
+          path: wiki
+          token: ${{ secrets.WIKI_TOKEN }}
+
+      # 3️⃣ Copier Translations.md dans la page wiki "Translations" (sans .md)
+      - name: Copy Translations.md to Wiki
+        run: |
+          cp "Translations.md" "wiki/Translations"
+
+      # 4️⃣ Commit et push les changements
+      - name: Commit and Push
+        run: |
+          cd wiki
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add Translations
+          git commit -m "Update Wiki Translations from Translations.md" || echo "No changes to commit"
+          git push
