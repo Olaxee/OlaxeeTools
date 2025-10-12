@@ -2,7 +2,7 @@
 
 ## French  
 
-> **[Click Here](https://github.com/Olaxee/OlaxeeTools/blob/master/README%20FR.md)**
+> **[Click Here](https://github.com/Olaxee/OlaxeeTools/wiki/README%20FR.md)**
 
 ## English
 
