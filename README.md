@@ -127,5 +127,6 @@ This project is distributed as open-source for educational and technical demonst
 
 ## 🌐 Translations
 
-[Click Here](https://github.com/Olaxee/OlaxeeTools/blob/master/Translations.md](https://github.com/Olaxee/OlaxeeTools/wiki/Translations) *for other languages*
+[Click Here](https://github.com/Olaxee/OlaxeeTools/wiki/Translations) *for other languages*
+
 
