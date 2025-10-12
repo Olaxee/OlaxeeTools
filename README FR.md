@@ -1,4 +1,4 @@
-# 🌐 OlaxeeTools test
+# 🌐 OlaxeeTools
 
 **OlaxeeTools** est un outil léger conçu pour **détecter et afficher votre adresse IP privée** directement sur votre réseau local.  
 Il fournit à la fois une **interface web** (HTML, CSS, JS) et des exécutables autonomes pour les appareils **PC** et **Android**.
