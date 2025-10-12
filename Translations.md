@@ -6,4 +6,4 @@
 
 ## English
 
-> **[Click Here](https://github.com/Olaxee/OlaxeeTools/blob/master/README.md)**
+> **[Click Here](https://github.com/Olaxee/OlaxeeTools/wiki/README)**
