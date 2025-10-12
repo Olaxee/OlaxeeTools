@@ -6,4 +6,6 @@
 
 ## English
 
-> **[Click Here](https://github.com/Olaxee/OlaxeeTools/blob/master/README.md)** eghquo
+> **[Click Here](https://github.com/Olaxee/OlaxeeTools/blob/master/README.md)**
+
+# Sync Test
