@@ -7,7 +7,7 @@ Il fournit à la fois une **interface web** (HTML, CSS, JS) et des exécutables 
 
 ---
 
-## *Une autre langues ?* [Cliquer ici](https://github.com/Olaxee/OlaxeeTools/wiki/README-FR#-traductions).
+## *Une autre langues ?* [Cliquer ici](#-traductions).
 
 ## 🧰 Caractéristiques
 
