@@ -7,7 +7,7 @@ Il fournit à la fois une **interface web** (HTML, CSS, JS) et des exécutables 
 
 ---
 
-## *Other languages ?* [Click Here](https://github.com/Olaxee/OlaxeeTools/?tab=readme-ov-file#-translations).
+## *Une autre langues ?* [Cliquer ici](https://github.com/Olaxee/OlaxeeTools/?tab=readme-ov-file#-translations).
 
 ## 🧰 Caractéristiques
 
@@ -129,4 +129,4 @@ Ce projet est distribué en open source à des fins éducatives et de démonstra
 
 ## 🌐 Traductions
 
-[Click Here](https://github.com/Olaxee/OlaxeeTools/wiki/Translations) *Paur d'autre langages*
+[Cliquer ici](https://github.com/Olaxee/OlaxeeTools/wiki/Translations) *Paur d'autre langages*.
