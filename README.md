@@ -6,6 +6,7 @@ It provides both a **web interface** (HTML, CSS, JS) and standalone executables 
 > 🔗 Official website: [olaxeetools.vercel.app](https://olaxeetools.vercel.app)
 
 ---
+
 ## *Other languages ?* [Click Here](https://github.com/Olaxee/OlaxeeTools/?tab=readme-ov-file#-translations).
 
 ## 🧰 Features
@@ -129,6 +130,7 @@ This project is distributed as open-source for educational and technical demonst
 ## 🌐 Translations
 
 [Click Here](https://github.com/Olaxee/OlaxeeTools/wiki/Translations) *for other languages*.
+
 
 
 
