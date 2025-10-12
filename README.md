@@ -43,7 +43,7 @@ This repository contains the web version of OlaxeeTools:
 | **CSS** | Design & layout |
 | **JavaScript** | Logic & IP handling |
 
-> Development and deployment via **Vercel**.  
+> Development and deployment via **[Vercel](vercel.com)**.  
 > Repository hosted at [Olaxee/OlaxeeTools](https://github.com/Olaxee/OlaxeeTools).
 
 ---
@@ -91,7 +91,7 @@ This repository contains the web version of OlaxeeTools:
 
 ## 🚀 Deployment
 
-OlaxeeTools web version is hosted via **[Vercel](vercel.com)**:  
+OlaxeeTools web version is hosted via **[Vercel](vercel.com)** :  
 👉 [https://olaxeetools.vercel.app](https://olaxeetools.vercel.app)
 
 You can deploy your own version using:
@@ -128,6 +128,7 @@ This project is distributed as open-source for educational and technical demonst
 ## 🌐 Translations
 
 [Click Here](https://github.com/Olaxee/OlaxeeTools/wiki/Translations) *for other languages*
+
 
 
 
