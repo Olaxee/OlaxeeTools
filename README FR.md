@@ -7,6 +7,8 @@ Il fournit à la fois une **interface web** (HTML, CSS, JS) et des exécutables 
 
 ---
 
+## *Other languages ?* [Click Here](https://github.com/Olaxee/OlaxeeTools/?tab=readme-ov-file#-translations).
+
 ## 🧰 Caractéristiques
 
 - Détecte vos adresses **IPv4** locales.
