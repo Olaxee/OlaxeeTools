@@ -91,7 +91,7 @@ This repository contains the web version of OlaxeeTools:
 
 ## 🚀 Deployment
 
-OlaxeeTools web version is hosted via **Vercel**:  
+OlaxeeTools web version is hosted via **[Vercel](vercel.com)**:  
 👉 [https://olaxeetools.vercel.app](https://olaxeetools.vercel.app)
 
 You can deploy your own version using:
@@ -128,5 +128,6 @@ This project is distributed as open-source for educational and technical demonst
 ## 🌐 Translations
 
 [Click Here](https://github.com/Olaxee/OlaxeeTools/wiki/Translations) *for other languages*
+
 
 
