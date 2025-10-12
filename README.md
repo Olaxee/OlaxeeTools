@@ -1,4 +1,4 @@
-# 🌐 OlaxeeTools
+# 🌐 OlaxeeTools                        *Other languages ?* [Click Here](https://github.com/Olaxee/OlaxeeTools/?tab=readme-ov-file#-translations).
 
 **OlaxeeTools** is a lightweight utility designed to **detect and display your private IP address** directly on your local network.  
 It provides both a **web interface** (HTML, CSS, JS) and standalone executables for **PC** and **Android** devices.
@@ -127,7 +127,8 @@ This project is distributed as open-source for educational and technical demonst
 
 ## 🌐 Translations
 
-[Click Here](https://github.com/Olaxee/OlaxeeTools/wiki/Translations) *for other languages*
+[Click Here](https://github.com/Olaxee/OlaxeeTools/wiki/Translations) *for other languages*.
+
 
 
 
