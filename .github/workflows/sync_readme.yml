@@ -1,0 +1,30 @@
+name: Sync README to Wiki
+
+on:
+  push:
+    paths:
+      - 'README.md'  # Déclenche le workflow seulement quand ce fichier change
+
+jobs:
+  sync-wiki:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Clone Wiki repo
+        run: |
+          git clone https://$GITHUB_ACTOR:${{ secrets.WIKI_PUSH_TOKEN }}@github.com/Olaxee/OlaxeeTools.wiki.git wiki
+          
+      - name: Copy README
+        run: |
+          cp README.md wiki/README.md
+
+      - name: Commit & Push changes
+        run: |
+          cd wiki
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Sync README.md from main repo" || echo "No changes"
+          git push
