@@ -314,3 +314,18 @@ h2 {
     position: static !important;
   }
 }
+
+/* Saut de ligne visible uniquement sur grands écrans */
+.responsive-br {
+  display: inline-block;  /* comme un <br> visuel */
+  content: "";
+  width: 100%;
+  height: 0;
+}
+
+/* Masqué sur écrans ≤600px */
+@media (max-width: 600px) {
+  .responsive-br {
+    display: none;
+  }
+}
