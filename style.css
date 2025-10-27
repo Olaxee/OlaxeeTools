@@ -301,4 +301,16 @@ h2 {
     -webkit-user-select: none; /* Empêche sélection texte par accident */
     user-select: none;
   }
+
+  /* === Responsive pour boutons GitHub du contact === */
+  #contact .btn {
+    display: block !important;
+    width: 100% !important;
+    margin: 0.3rem 0 !important;
+    box-sizing: border-box;
+  }
+  /* Supprime position absolute pour les boutons GitHub afin qu'ils s'empilent */
+  #contact div[style*="position: relative;"] a {
+    position: static !important;
+  }
 }
