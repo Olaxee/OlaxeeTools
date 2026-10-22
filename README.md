@@ -1,3 +1,6 @@
+> You are currently on the website's repository, which includes the releases (EXE and APK).
+To access the repository containing the complete source code:
+
 # 🌐 OlaxeeTools
 
 **OlaxeeTools** is a lightweight utility designed to **detect and display your private IP address** directly on your local network.  
