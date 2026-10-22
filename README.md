@@ -1,5 +1,5 @@
 # /!\ You are currently on the website's repository, which includes the releases (EXE and APK). /!\
-> To access the repository containing the complete source code:
+> To access the repository containing the complete source code: https://github.com/Olaxee/OlaxeeTools-All-Source-Code
 
 # 🌐 OlaxeeTools
 
