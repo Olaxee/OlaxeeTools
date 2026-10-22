@@ -1,3 +1,6 @@
+# /!\ Vous êtes actuellement sur le dépôt du site web, qui inclut les releases (EXE et APK). /!\
+> Pour accéder au dépôt contenant le code source complet : https://github.com/Olaxee/OlaxeeTools-All-Source-Code
+
 # 🌐 OlaxeeTools
 
 **OlaxeeTools** est un outil léger conçu pour **détecter et afficher votre adresse IP privée** directement sur votre réseau local.  
